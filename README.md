@@ -1,1 +1,1 @@
-![image](https://img.freepik.com/premium-photo/young-owl-wearing-a-hat-on-white-isolated_191971-14412.jpg =250x) 
+![image](https://t1.pixers.pics/img-d5043af1/stickers-young-owl-wearing-a-hat-in-front-of-white-background.png?H4sIAAAAAAAAA5VPy07EMAz8nVZq146TJmk-YK_7CVVI3d2yfURNgYWvJxWCAxIH5IPtsT3jgZcl-YEh8LLzBvPY9xPDME65S27jNH5wgZVBVbqMTgUilm595S1sayxqQbqqra1MoyrTUunefL6c_XYvbvsekwNI8hTHR6bLKSQIcwJCYQA1NG2jcQjETUtP3eLvU96s5UOd4nKt8IjS-Rin927jrJm481O8-X9wSytkGH64f2mU3xYVYqUOa8Oav9-LYwZ_qHzVkNfhfAHSQBYEgtAH1J0vpMkKFLpjlpIk9oq8sq3Xug2GpSFSfWM1-9NzvH4CN63cqIEBAAA=) 
