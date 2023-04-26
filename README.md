@@ -11,4 +11,4 @@
 -->
 - Now I am also interested in algorithmic problems.   [![codewars](https://www.codewars.com/users/blessyo7/badges/micro)](https://www.codewars.com/users/blessyo7) 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=arevbond&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=arevbond&theme=dark)](https://leetcode.com/arevbond/)
