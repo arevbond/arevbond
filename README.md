@@ -8,7 +8,8 @@
 
 ##### Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
--->
+
 - Now I am also interested in algorithmic problems.   [![codewars](https://www.codewars.com/users/blessyo7/badges/micro)](https://www.codewars.com/users/blessyo7) 
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=arevbond&theme=dark)](https://leetcode.com/arevbond/)
+-->
