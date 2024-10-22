@@ -1,5 +1,6 @@
-### Hi there 👋
 <!---
+### Hi there 👋
+
 ### Hey! I'm @arevbond (Nikita Bondarev) 👋
 - I'm a computer science student from Russia. 🇷🇺
 - i am currently studying software engineering, working on my pet-projects and improving my coding skills.
