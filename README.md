@@ -1,4 +1,4 @@
-enjoy perfect days 
+find and enjoy yours perfect days
 <!---
 ### Hi there 👋
 
